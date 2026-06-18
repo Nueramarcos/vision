@@ -69,7 +69,7 @@ Torchvision currently supports the following image backends:
     - [Pillow](https://python-pillow.org/)
     - [Pillow-SIMD](https://github.com/uploadcare/pillow-simd) - a **much faster** drop-in replacement for Pillow with SIMD.
 
-Read more in in our [docs](https://pytorch.org/vision/stable/transforms.html).
+Read more in our [docs](https://pytorch.org/vision/stable/transforms.html).
 
 ## Documentation
 
